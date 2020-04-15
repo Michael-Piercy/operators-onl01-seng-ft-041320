@@ -4,7 +4,7 @@ def unsafe?(speed)
   elsif speed >40
   return true
   else
-  return speed
+  return 50
 end
 end
 
